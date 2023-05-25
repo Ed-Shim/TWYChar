@@ -7,7 +7,6 @@
 - Sample responses should describe how the character should talk like such as
 1. "Hellooo! I'm <Name>"
 2. "Yo, what's up"
-3. "Oniichan Daisuki <3"
 
 ### Getting Started
 - Hit run
