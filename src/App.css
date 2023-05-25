@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  margin: 2rem;
+}
+
+.settings, .responses {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.settings p, .responses p {
+  margin-right: 1rem;
+}
